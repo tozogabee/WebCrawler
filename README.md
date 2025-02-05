@@ -77,7 +77,7 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 
 ## Author
 
-\*\*Gabor Toth \*\*- [GitHub](https://github.com/your-username)
+\*\*Gabor Toth \*\*- [GitHub](https://github.com/tozogabee)
 
 
 
